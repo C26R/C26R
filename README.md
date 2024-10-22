@@ -1,5 +1,8 @@
-## Hi there 👋
+Computer Science Student @ The University of Auckland
 
+💻 Python | R | Java | C# | JavaScript | TypeScript\
+🌐 HTML | CSS  | Bootstrap | Sass | Flask | Django\
+🔗 [LinkedIn](https://www.linkedin.com/in/calebrevill/)
 <!--
 **C26R/C26R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
